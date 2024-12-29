@@ -19,4 +19,13 @@ In this Task, the preprocessing of the dataset/data has been done while understa
 - **Sustainability and Resource Efficiency**: It recommends crops requiring less water and fertilizers, promoting eco-friendly farming and long-term soil health.\
 
 ## Technology Used
-- 
+- Python Programming Language
+- Pandas
+- NumPy
+- Matplotlib & Seaborn
+- Crop Recommendeation.csv Dataset
+
+## Implementation
+<img width="1017" alt="Screenshot 2024-12-29 at 12 57 07 PM" src="https://github.com/user-attachments/assets/97e405f8-2be3-4f63-9f42-2ba92d7a52a7" />
+<img width="611" alt="Screenshot 2024-12-29 at 12 57 43 PM" src="https://github.com/user-attachments/assets/9b2c3338-5f61-47e7-a7e9-56b444b5f61a" />
+
